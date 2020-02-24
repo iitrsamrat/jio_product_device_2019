@@ -9,7 +9,7 @@ git clone https://github.com/iitrsamrat/jio_product_device_2019.git
 
 #### Max time : 2.30 hours
 
-- Software Developer can choose to solve among Q2 or Q6.
+- Software Developer can choose to solve among Q1 or Q2 or Q6.
 - Big Data/DB Developer Q5, Q6
 - Data Scientist (search/nlp) must solve Q2, its good if you additionally solve Q6 also
 - Data Scientist (Generic) Can attempt to solve among Q2, Q3, Q4, Q5, Q6
