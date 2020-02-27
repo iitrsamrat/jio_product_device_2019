@@ -7,7 +7,7 @@ git clone https://github.com/iitrsamrat/jio_product_device_2019.git
 
 
 
-#### Max time : 2.30 hours
+#### The same problem has simple to sophisticated answer
 
 - Software Developer can choose to solve among Q1 or Q2 or Q6.
 - Big Data/DB Developer Q5, Q6
